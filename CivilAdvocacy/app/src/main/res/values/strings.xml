@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CivilAdvocacy</string>
+    <string name="app_address_colon">Address:</string>
+    <string name="app_phone_colon">Phone:</string>
+    <string name="app_email_colon">Email:</string>
+    <string name="app_website_colon">Website:</string>
+</resources>
